@@ -1,0 +1,9 @@
+variable "workerRole"{}
+variable "instance_type"{}
+variable "key-pair"{}
+variable "kubeversion"{}
+variable "AmazonEKSWorkerNodePolicy"{}
+variable "AmazonEKS_CNI_Policy"{}
+variable "AmazonEC2ContainerRegistryReadOnly"{}
+variable "clustername"{}
+variable "publicsubnet"{}
